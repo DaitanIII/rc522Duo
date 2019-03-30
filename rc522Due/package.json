@@ -1,7 +1,17 @@
 {
+   "author": {
+    "name": "Corrado Antonio Cardone",
+    "email": "corrado.cardone@gmail.com"
+  },
   "name": "rc522Due",
+  "description": "node.js module to install two rfid reader with rc522 chipset which is connected a raspberry pi",
+  "keywords": [
+    "rfid",
+    "rc522"
+  ],
   "version": "0.0.0",
-  "config": {
-    "unsafe-perm": true
-  }
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DaitanIII/rc522Duo.git"
+  },
 }
